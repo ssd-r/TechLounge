@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8af25f3b83b11210acfcb5d6feaad34f" label="Requests" max_length="40" name="x_1554675_tech_lou_requests" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Desc" max_length="150" name="desc" type="string"/>
+        <element attributes="encode_utf8=false" label="Requester ID" max_length="32" name="requester_id" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Request ID" mandatory="true" max_length="150" name="request_id" type="string" use_dynamic_default="true"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approved" value="approved"/>
+                <element inactive_on_update="false" label="Pending" value="pending"/>
+                <element inactive_on_update="false" label="Rejected" value="rejected"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Title" max_length="150" name="title" type="string"/>
+        <index name="index">
+            <element name="requester_id"/>
+        </index>
+    </element>
+</database>
