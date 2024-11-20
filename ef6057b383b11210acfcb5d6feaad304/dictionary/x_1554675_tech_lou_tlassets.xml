@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="54585c1c83ca5210acfcb5d6feaad397" extends="task" label="TLAssets" max_length="40" name="x_1554675_tech_lou_tlassets" type="collection">
+        <element label="Asset Description" max_length="150" name="asset_description" type="string"/>
+        <element default="javascript:getNextObjNumberPadded();" display="true" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Asset ID" max_length="40" name="asset_id" type="string" use_dynamic_default="true"/>
+        <element label="Asset Name" max_length="150" name="asset_name" type="string"/>
+        <element choice="1" label="Asset Type" max_length="40" name="asset_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="-- New choice --" value="-- New choice --"/>
+                <element inactive_on_update="false" label="Accessories" value="accessories"/>
+                <element inactive_on_update="false" label="System" value="system"/>
+            </choice>
+        </element>
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+        <element choice="3" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Available" value="available"/>
+                <element inactive_on_update="false" label="Not available" value="notavailable"/>
+            </choice>
+        </element>
+    </element>
+</database>
