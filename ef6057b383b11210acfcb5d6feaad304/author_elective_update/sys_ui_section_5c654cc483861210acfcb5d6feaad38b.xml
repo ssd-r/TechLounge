@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="5c654cc483861210acfcb5d6feaad38b" sys_domain="global" table="x_1554675_tech_lou_requests" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_id</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-18 11:44:51</sys_created_on>
+            <sys_id>11dd404483c61210acfcb5d6feaad3e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_requests" sys_domain="global" view="Default view">5c654cc483861210acfcb5d6feaad38b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-18 11:44:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-18 11:44:51</sys_created_on>
+            <sys_id>19dd404483c61210acfcb5d6feaad3e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_requests" sys_domain="global" view="Default view">5c654cc483861210acfcb5d6feaad38b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-18 11:44:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>desc</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-18 11:44:51</sys_created_on>
+            <sys_id>11dd404483c61210acfcb5d6feaad3e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_requests" sys_domain="global" view="Default view">5c654cc483861210acfcb5d6feaad38b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-18 11:44:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-18 11:44:51</sys_created_on>
+            <sys_id>19dd404483c61210acfcb5d6feaad3e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_requests" sys_domain="global" view="Default view">5c654cc483861210acfcb5d6feaad38b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-18 11:44:51</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-18 11:44:51</sys_created_on>
+            <sys_id>11dd404483c61210acfcb5d6feaad3e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_requests" sys_domain="global" view="Default view">5c654cc483861210acfcb5d6feaad38b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-18 11:44:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-18 11:44:51</sys_created_on>
+            <sys_id>19dd404483c61210acfcb5d6feaad3e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_requests" sys_domain="global" view="Default view">5c654cc483861210acfcb5d6feaad38b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-18 11:44:51</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requester_id</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-18 11:44:51</sys_created_on>
+            <sys_id>11dd404483c61210acfcb5d6feaad3e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_requests" sys_domain="global" view="Default view">5c654cc483861210acfcb5d6feaad38b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-18 11:44:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1554675_tech_lou_requests</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-18 11:07:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c654cc483861210acfcb5d6feaad38b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1554675_tech_lou_requests</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+            <sys_update_name>sys_ui_section_5c654cc483861210acfcb5d6feaad38b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-18 11:07:55</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</application>
+        <file_path/>
+        <instance_id>650a00c11b1af1d8168f4089bd4bcb6b</instance_id>
+        <instance_name>dev200968</instance_name>
+        <name>sys_ui_section_5c654cc483861210acfcb5d6feaad38b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="5c654cc483861210acfcb5d6feaad38b" sys_domain="global" table="x_1554675_tech_lou_requests" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>request_id</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-18 11:44:51</sys_created_on><sys_id>11dd404483c61210acfcb5d6feaad3e0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_requests" sys_domain="global" view="Default view">5c654cc483861210acfcb5d6feaad38b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-18 11:44:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>title</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-18 11:44:51</sys_created_on><sys_id>19dd404483c61210acfcb5d6feaad3e0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_requests" sys_domain="global" view="Default view">5c654cc483861210acfcb5d6feaad38b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-18 11:44:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>desc</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-18 11:44:51</sys_created_on><sys_id>11dd404483c61210acfcb5d6feaad3e1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_requests" sys_domain="global" view="Default view">5c654cc483861210acfcb5d6feaad38b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-18 11:44:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-18 11:44:51</sys_created_on><sys_id>19dd404483c61210acfcb5d6feaad3e1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_requests" sys_domain="global" view="Default view">5c654cc483861210acfcb5d6feaad38b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-18 11:44:51</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>status</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-18 11:44:51</sys_created_on><sys_id>11dd404483c61210acfcb5d6feaad3e2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_requests" sys_domain="global" view="Default view">5c654cc483861210acfcb5d6feaad38b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-18 11:44:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-18 11:44:51</sys_created_on><sys_id>19dd404483c61210acfcb5d6feaad3e2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_requests" sys_domain="global" view="Default view">5c654cc483861210acfcb5d6feaad38b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-18 11:44:51</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>requester_id</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-18 11:44:51</sys_created_on><sys_id>11dd404483c61210acfcb5d6feaad3e3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_requests" sys_domain="global" view="Default view">5c654cc483861210acfcb5d6feaad38b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-18 11:44:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1554675_tech_lou_requests</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-18 11:07:55</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5c654cc483861210acfcb5d6feaad38b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1554675_tech_lou_requests</sys_name><sys_overrides/><sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package><sys_policy/><sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope><sys_update_name>sys_ui_section_5c654cc483861210acfcb5d6feaad38b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-18 11:07:55</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1712980990</payload_hash>
+        <record_name>Requests</record_name>
+        <reverted_from/>
+        <source>236057b383b11210acfcb5d6feaad307</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-18 11:44:51</sys_created_on>
+        <sys_id>15dd404483c61210acfcb5d6feaad3e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1933f16fd490000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-18 11:44:51</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>d9dd4044acc61210a82264fbb85076e5</update_guid>
+        <update_guid_history>d9dd4044acc61210a82264fbb85076e5:-1712980990,586500887086121099cc456dd9c91f13:853819524,dc654cc4cd86121017f21f463869908e:-734429080</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-19 12:57:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>4a10a4458f9d46f38494e327e609f249</sys_id>
+        <sys_metadata>5c654cc483861210acfcb5d6feaad38b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1554675_tech_lou_requests</sys_name>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_parent display_value="">8af25f3b83b11210acfcb5d6feaad34f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_scope_delete display_value="">0c314d537e6a425a82289c4064f043d9</sys_scope_delete>
+        <sys_update_name>sys_ui_section_5c654cc483861210acfcb5d6feaad38b</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_5c654cc483861210acfcb5d6feaad38b">15dd404483c61210acfcb5d6feaad3e6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-19 12:57:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

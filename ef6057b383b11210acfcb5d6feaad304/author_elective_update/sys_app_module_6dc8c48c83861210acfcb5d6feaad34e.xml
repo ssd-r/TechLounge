@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Tech Lounge Request">43bc88c083c61210acfcb5d6feaad3e9</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Tech Lounge Request</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1554675_tech_lou_requests</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1554675_tech_lou.assets_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-18 11:24:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6dc8c48c83861210acfcb5d6feaad34e</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Tech Lounge Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_update_name>sys_app_module_6dc8c48c83861210acfcb5d6feaad34e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-18 11:40:37</sys_updated_on>
+        <timeline_page/>
+        <title>Tech Lounge Request</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</application>
+        <file_path/>
+        <instance_id>650a00c11b1af1d8168f4089bd4bcb6b</instance_id>
+        <instance_name>dev200968</instance_name>
+        <name>sys_app_module_6dc8c48c83861210acfcb5d6feaad34e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Tech Lounge Request">43bc88c083c61210acfcb5d6feaad3e9</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Tech Lounge Request</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1554675_tech_lou_requests</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1554675_tech_lou.assets_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-18 11:24:54</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6dc8c48c83861210acfcb5d6feaad34e</sys_id><sys_mod_count>5</sys_mod_count><sys_name>Tech Lounge Request</sys_name><sys_overrides/><sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package><sys_policy/><sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope><sys_update_name>sys_app_module_6dc8c48c83861210acfcb5d6feaad34e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-18 11:40:37</sys_updated_on><timeline_page/><title>Tech Lounge Request</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>578949850</payload_hash>
+        <record_name>Tech Lounge Request</record_name>
+        <reverted_from/>
+        <source>236057b383b11210acfcb5d6feaad307</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-18 11:40:37</sys_created_on>
+        <sys_id>9fdc4cc083c61210acfcb5d6feaad393</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1933f131ca90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-18 11:40:37</sys_updated_on>
+        <type>Module</type>
+        <update_guid>dfdc84c0b3c61210d7080be5f1620c17</update_guid>
+        <update_guid_history>dfdc84c0b3c61210d7080be5f1620c17:578949850,b2ea48007fc6121019b1cb0703dff78a:1410079409,2bba0c007ec61210433da63345467227:-29806819,be5a00007fc612107be24d77c7c49f3e:-1408666755,06f900007fc612107ce6e4093eed9337:62449843,c94940ccb386121042cf708013cca928:-1868687201</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Tech Lounge Request">18a4259083829210acfcb5d6feaad3a7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-19 12:42:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>5d58baed5eed4f9aae392f2288a21de4</sys_id>
+        <sys_metadata>6dc8c48c83861210acfcb5d6feaad34e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tech Lounge Request</sys_name>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_scope_delete display_value="">0c314d537e6a425a82289c4064f043d9</sys_scope_delete>
+        <sys_update_name>sys_app_module_6dc8c48c83861210acfcb5d6feaad34e</sys_update_name>
+        <sys_update_version display_value="sys_app_module_6dc8c48c83861210acfcb5d6feaad34e">9fdc4cc083c61210acfcb5d6feaad393</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-19 12:42:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

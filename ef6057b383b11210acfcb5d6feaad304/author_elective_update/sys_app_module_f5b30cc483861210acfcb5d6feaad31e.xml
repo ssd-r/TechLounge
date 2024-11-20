@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Tech Lounge">43bc88c083c61210acfcb5d6feaad3e9</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Assets</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1554675_tech_lou_assets</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1554675_tech_lou.admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-18 11:00:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f5b30cc483861210acfcb5d6feaad31e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Assets</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_update_name>sys_app_module_f5b30cc483861210acfcb5d6feaad31e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-19 12:10:46</sys_updated_on>
+        <timeline_page/>
+        <title>Assets</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</application>
+        <file_path/>
+        <instance_id>650a00c11b1af1d8168f4089bd4bcb6b</instance_id>
+        <instance_name>dev200968</instance_name>
+        <name>sys_app_module_f5b30cc483861210acfcb5d6feaad31e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Tech Lounge">43bc88c083c61210acfcb5d6feaad3e9</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Assets</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1554675_tech_lou_assets</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1554675_tech_lou.admin</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-18 11:00:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f5b30cc483861210acfcb5d6feaad31e</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Assets</sys_name><sys_overrides/><sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package><sys_policy/><sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope><sys_update_name>sys_app_module_f5b30cc483861210acfcb5d6feaad31e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-19 12:10:46</sys_updated_on><timeline_page/><title>Assets</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-121824518</payload_hash>
+        <record_name>Assets</record_name>
+        <reverted_from/>
+        <source>836f1d08834e1210acfcb5d6feaad360</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-19 12:10:46</sys_created_on>
+        <sys_id>3e5d1d1883429210acfcb5d6feaad3a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193445512c30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-19 12:10:46</sys_updated_on>
+        <type>Module</type>
+        <update_guid>325d1d18b7429210ca8195523e56b9a5</update_guid>
+        <update_guid_history>325d1d18b7429210ca8195523e56b9a5:-121824518,8d6ec01069ca52101ba1779652d4e447:-1080395390,b1b30cc4cd861210c4cf3a67a0fb9b21:-1299556740</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Assets">6c94259083829210acfcb5d6feaad3e2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-19 12:42:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>7e946d6a88294857901eae32ad6ae279</sys_id>
+        <sys_metadata>f5b30cc483861210acfcb5d6feaad31e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assets</sys_name>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_scope_delete display_value="">0c314d537e6a425a82289c4064f043d9</sys_scope_delete>
+        <sys_update_name>sys_app_module_f5b30cc483861210acfcb5d6feaad31e</sys_update_name>
+        <sys_update_version display_value="sys_app_module_f5b30cc483861210acfcb5d6feaad31e">3e5d1d1883429210acfcb5d6feaad3a5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-19 12:42:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

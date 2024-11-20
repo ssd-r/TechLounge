@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <decision_type>allow</decision_type>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1554675_tech_lou_requests</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-18 07:27:48</sys_created_on>
+        <sys_id>bff2977783b11210acfcb5d6feaad354</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1554675_tech_lou_requests</sys_name>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_update_name>sys_security_acl_bff2977783b11210acfcb5d6feaad354</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-18 07:27:48</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</application>
+        <file_path/>
+        <instance_id>650a00c11b1af1d8168f4089bd4bcb6b</instance_id>
+        <instance_name>dev200968</instance_name>
+        <name>sys_security_acl_bff2977783b11210acfcb5d6feaad354</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><decision_type>allow</decision_type><description/><local_or_existing>Local</local_or_existing><name>x_1554675_tech_lou_requests</name><operation display_value="create">create</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-18 07:27:48</sys_created_on><sys_id>bff2977783b11210acfcb5d6feaad354</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1554675_tech_lou_requests</sys_name><sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package><sys_policy/><sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope><sys_update_name>sys_security_acl_bff2977783b11210acfcb5d6feaad354</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-18 07:27:48</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>1382800024</payload_hash>
+        <record_name>x_1554675_tech_lou_requests</record_name>
+        <reverted_from/>
+        <source>236057b383b11210acfcb5d6feaad307</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-18 07:27:48</sys_created_on>
+        <sys_id>37f2977783b11210acfcb5d6feaad359</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1933e2ba58a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-18 07:27:48</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>f7f29777f7b11210f35417287fae5358</update_guid>
+        <update_guid_history>f7f29777f7b11210f35417287fae5358:1382800024</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-19 12:57:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>7e6ef64620304d58b2d8d37a78423cc4</sys_id>
+        <sys_metadata>bff2977783b11210acfcb5d6feaad354</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1554675_tech_lou_requests</sys_name>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_parent display_value="">8af25f3b83b11210acfcb5d6feaad352</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_scope_delete display_value="">0c314d537e6a425a82289c4064f043d9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_bff2977783b11210acfcb5d6feaad354</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_bff2977783b11210acfcb5d6feaad354">37f2977783b11210acfcb5d6feaad359</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-19 12:57:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
