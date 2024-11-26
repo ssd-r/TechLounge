@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <attributes>browserActivatedIn=firefox,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,viewActivatedIn=naturalLanguage</attributes>
+        <authored_on_release_version>26000</authored_on_release_version>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Apps to complete TechLounge requests and fulfillment</description>
+        <display_name_after_preview/>
+        <flow_priority>MEDIUM</flow_priority>
+        <generation_source/>
+        <internal_name>techlounge_desk</internal_name>
+        <label_cache>[{"name":"Created_1.current","label":"Trigger - Record Created➛TLRequests Record","reference":"x_1554675_tech_lou_tlrequests","reference_display":"TLRequests","type":"reference","base_type":"reference","usedInstances":{"8f318497-153c-4515-8946-c4c3ff88e38e":["record"],"e8605eea-f1a3-4fab-a9ce-2136bdb4a6d5":["record"],"383cd1ef-7e00-41c9-ad30-67e73387f2a5":["record"],"f6120cd0-8cf9-4492-84ad-2bddb82e0465":["record"]},"attributes":{}},{"name":"Created_1.current.assigned_to.manager","label":"Trigger - Record Created➛TLRequests Record➛Assigned to➛Manager","reference":"sys_user","reference_display":"Manager","type":"reference","base_type":"reference","parent_table_name":"sys_user","column_name":"manager","usedInstances":{"e8605eea-f1a3-4fab-a9ce-2136bdb4a6d5":["approval_conditions"]}},{"name":"e8605eea-f1a3-4fab-a9ce-2136bdb4a6d5.approval_state","label":"2 - Ask For Approval➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice","choices":[{"label":"-- None --","value":"","order":0.0},{"label":"Not Yet Requested","value":"not requested","order":1.0},{"label":"Requested","value":"requested","order":2.0},{"label":"Approved","value":"approved","order":3.0},{"label":"Rejected","value":"rejected","order":4.0},{"label":"Cancelled","value":"cancelled","order":5.0},{"label":"No Longer Required","value":"not_required","order":6.0},{"label":"Skipped","value":"skipped","order":7.0}],"usedInstances":{"2fae77be-9039-4878-8be9-341633bb6c2b":["condition"]},"attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <master_snapshot_digest/>
+        <name>TechLounge Desk</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <substatus/>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-26 06:06:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ef2d44ee834e1e10acfcb5d6feaad34a</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>TechLounge Desk</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_update_name>sys_hub_flow_ef2d44ee834e1e10acfcb5d6feaad34a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-26 06:31:33</sys_updated_on>
+        <type>flow</type>
+        <version>2</version>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=ef2d44ee834e1e10acfcb5d6feaad34a"/>
+    <sys_variable_value action="delete_multiple" query="document_key=ef2d44ee834e1e10acfcb5d6feaad34a"/>
+    <sys_hub_flow_stage action="delete_multiple" query="flow=ef2d44ee834e1e10acfcb5d6feaad34a"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=ef2d44ee834e1e10acfcb5d6feaad34a^sys_idNOT INe32d44ee834e1e10acfcb5d6feaad34e"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>ef2d44ee834e1e10acfcb5d6feaad34a</id>
+        <name>TechLounge Desk</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-26 06:06:49</sys_created_on>
+        <sys_id>e32d44ee834e1e10acfcb5d6feaad34e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-26 06:06:49</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=e32d44ee834e1e10acfcb5d6feaad34e"/>
+    <sys_hub_flow_input action="delete_multiple" query="model=ef2d44ee834e1e10acfcb5d6feaad34a^sys_idNOT IN231e0c22838e1e10acfcb5d6feaad3ff,231e4c22838e1e10acfcb5d6feaad308"/>
+    <sys_hub_flow_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id,uiTypeLabel=Document ID</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent>table_name</dependent>
+        <dependent_on_field>table_name</dependent_on_field>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>current</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="">document_id</internal_type>
+        <label>Record</label>
+        <mandatory>true</mandatory>
+        <max_length>200</max_length>
+        <model display_value="TechLounge Desk">ef2d44ee834e1e10acfcb5d6feaad34a</model>
+        <model_id>ef2d44ee834e1e10acfcb5d6feaad34a</model_id>
+        <model_table>sys_hub_flow</model_table>
+        <name>var__m_sys_hub_flow_input_ef2d44ee834e1e10acfcb5d6feaad34a</name>
+        <next_element/>
+        <order>100</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-26 06:10:54</sys_created_on>
+        <sys_id>231e0c22838e1e10acfcb5d6feaad3ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-26 06:10:54</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>true</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_input>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=231e0c22838e1e10acfcb5d6feaad3ff"/>
+    <sys_hub_flow_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name,uiTypeLabel=Table Name</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>table_name</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="">table_name</internal_type>
+        <label>Table Name</label>
+        <mandatory>false</mandatory>
+        <max_length>200</max_length>
+        <model display_value="TechLounge Desk">ef2d44ee834e1e10acfcb5d6feaad34a</model>
+        <model_id>ef2d44ee834e1e10acfcb5d6feaad34a</model_id>
+        <model_table>sys_hub_flow</model_table>
+        <name>var__m_sys_hub_flow_input_ef2d44ee834e1e10acfcb5d6feaad34a</name>
+        <next_element/>
+        <order>101</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-26 06:10:55</sys_created_on>
+        <sys_id>231e4c22838e1e10acfcb5d6feaad308</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-26 06:10:55</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_input>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=231e4c22838e1e10acfcb5d6feaad308"/>
+    <sys_hub_flow_output action="delete_multiple" query="model=ef2d44ee834e1e10acfcb5d6feaad34a"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=ef2d44ee834e1e10acfcb5d6feaad34a"/>
+    <sys_hub_trigger_instance_v2 action="delete_multiple" query="flow=ef2d44ee834e1e10acfcb5d6feaad34a^sys_idNOT INb31e4c22838e1e10acfcb5d6feaad332"/>
+    <sys_hub_trigger_instance_v2 action="INSERT_OR_UPDATE">
+        <comment/>
+        <display_text/>
+        <flow display_value="TechLounge Desk">ef2d44ee834e1e10acfcb5d6feaad34a</flow>
+        <name>Created</name>
+        <remote_sys_id/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-26 06:10:55</sys_created_on>
+        <sys_id>b31e4c22838e1e10acfcb5d6feaad332</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-26 06:11:09</sys_updated_on>
+        <trigger_definition display_value="Created">798916a0c31322002841b63b12d3ae7c</trigger_definition>
+        <trigger_inputs>H4sIAAAAAAAA/+VZTW/jNhD9K4JOLZAC+rAtK7dtkkUDpLut47aHICUoaWgLpSWvSCnxLvLfO7QkW5alRLaT1s5eFjBJDec9vnlDZu++6Zx6wPVzfUw9DvqZHkYSkojy8WIOOCzVMInoTM3NaBRQGScL/VwmKZzpcRJAop+bZ3pGeQq3C3Ed4Ee4dPlF8bleTOPvR2L2+72B0ycS/CnhcUokT+BLCkIKXBeEYs7p4s9i+fhmtJ6b0wSDSrXhN92fhjxIINLP7+4xabWrz3zqWmD4tmlblmFYw57pDWzPtAKbgmFgiDrYWpayAfMaIjxKiALArRjlAhroSIAGnyO+WK2YIps5HzP6KMKvGH1oqHUMMHcf8jl/Goc+fJ7LMI7ykTyhfDLm6Sz6lCeqGAJGUy5LhnAkFUACmKvc1G7F1ux2Gj+Myo0+htESRjHJY5/y1S8qZRJ6qQShmGUhR45JToKI02SZ5ujq4vPokvz1YXzxy9WIjK5ux6Pri/HVpf60xEO+pCpinmGRC8nhPK2O9WMIXJ0UFQIkCSXMcLnwk3AuP/gyzKBI6elsrcskjTAOWZG/pdCcvRWNN6FAEu4QR0nRMiTOs5si5CiNtBiPCf/R/DRBgqRWSoBdz+ikIJb9VipuSUwhlowmhMyIWAgyTT2C1E0myFcYzVNJHHfomgPaokHH36BnWRQY+k7X75/UiQEHX1YExv4Q1V+/hkKE0aRC0gqj0t82xBU6FKpWMphDFaeF9X6j2opFZWkaRqv/bKsnq6mi5jgdfMY0GfOAWYajUJuG7THTcIw+ZYFtGL5V8Znt7VvzkjU1V8E95zzFSBfr6bVZj1gWDO9QHnX2yiyrFdtJe9mmcIs4ljrowuEujjC1mlPbO1n1SnH58OWm8J6D9soOT4OM4hdBibGLg3dw6YcpRASNXaq63d2mI6yH5Tc036TiZkrYmiKIxYn2KY5+ul6v024BnQLzPCk/q3p3F9AYLNHeFWovltN6x1JIf8bxDaSqSFvO/DtqYrXiyjZZ3KOJQW/Yd5ntO4gZ2xbrgUfNntWnrjOwmVtrYrXt2xM7njbW0TSyVvtpaiBdizJrrO1VK6m1pH10X1NAEdp+oYF+v6Qc1LrLMmvt3PskexpdnfH4ATWwR0P3qP/PJInTKNjyeYyphZG2XqH9UHD742lZerWjoQbgebybK04H5SGNa62fsjhptNirZdnM9FzogYHPLRtbltd3Xc+nFmPOwAHLrLWs9caN2RxPo+pQEVlTSbU9cBrVljWJdIdX1/+f4EEGXmiu0b/zueN344s4CkKZt9K6F5dTQt+zVP1K8PIo/r76fbtQ88GXanUwoDSANnfyWKVWq7AakpENCN+kVo23/sNs/jfivRU1iwPgl+tw+kY/ULQ80EgKImNCg4BUCOsowRzbDm99xJcc9OBXGwOJWbVfXsYaTmi4iRYyrcAIgeYtNDkF9AyO7oEbamr3E3sAVm8L28hX1+h3jTt3261nPw4vkZ0WsINf9LUSOvSKBIFD+33baX7Vu/UrUlMKL2R4PNemnY0ia/KdZ9+zu8Wtx2x80VZ0vnnYHR/w7xj1m13wGrI4/tveZgFy1T23WuyEhwGUc69gREWkbG04u1sQG7p+33RaLGjYb7WgYvPnEpMNsP+Tu6DqNIVyjus/619LePf/Al36gg4KIgAA</trigger_inputs>
+        <trigger_outputs/>
+        <trigger_type>record_create</trigger_type>
+    </sys_hub_trigger_instance_v2>
+    <sys_hub_action_instance_v2 action="delete_multiple" query="flow=ef2d44ee834e1e10acfcb5d6feaad34a^sys_idNOT IN2b4f0462838e1e10acfcb5d6feaad338,3b1e4c22838e1e10acfcb5d6feaad333,42d210a6838e1e10acfcb5d6feaad380,c2d210a6838e1e10acfcb5d6feaad381"/>
+    <sys_hub_action_instance_v2 action="INSERT_OR_UPDATE">
+        <action_type display_value="Ask For Approval">f8f2e9920b10030085c083eb37673abd</action_type>
+        <action_type_parent display_value="Ask For Approval">bae0a1120b10030085c083eb37673a92</action_type_parent>
+        <attributes/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="TechLounge Desk">ef2d44ee834e1e10acfcb5d6feaad34a</flow>
+        <generation_source/>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance_v2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-26 06:16:05</sys_created_on>
+        <sys_id>2b4f0462838e1e10acfcb5d6feaad338</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-26 06:31:33</sys_updated_on>
+        <ui_id>e8605eea-f1a3-4fab-a9ce-2136bdb4a6d5</ui_id>
+        <values>H4sIAAAAAAAA/+1X227aQBD9lcjPyDW3QHiLipBaqY1E0ryEyFrWA2y1rJ29JKHI/95Ze20cSBxESdWmfdy5npk5s17frD0WeQOv15+14OysFUybQdAOgn6XBv02TNu9016b0MBreIIsAS0l0FhGeL4n3FjBev1RAtEQhU2fGilB6DRFfcRUwsnq2pmhhC4Yj1DvDW5uG15CJEbUIL3BekulVwmEnEyBo+MwpmaJQU8+DTHGvmgL73EBdxu+zYHnyEUPmRWiyuIJGh48ahARYLYZ4Qoa3pKIiOhYrryBlgYFWHR0IfiqtFgwofNCl+RRsR8Yvt2ydjPAymjZhJhRuEg0i0Uu0WTKC2XMzVJ8zaHaHsKMGK4rPTQKwggSi81my6HMLhfxw7jIM2Iiq8LB4jElvDwRrSWbGg3Kth04ZMUvSZIwMQ8TGd+zzBmhLP05x4M/4/ED5lRsLnxCLW4fO0H8EcqHmfiaSGaL+IJh0DnNig7vjM2bl+EAh1nNecFopahkiT7HmPfgEKYNx8gprZ0x3Yw0D7ch5GPY7HY7p71uqIEuQh6bUHMJdwaUVrvEfM38MNZeWVAn2SQbexf0xHm3QEfZ7BiKPLRjbLOesU6yD2X7wRtT1qX+yzj7Gl2DZt10o/5mmpgPERMezhjw6kVaKHYpWtEcxsaRTfWEjXvgLZzPXfaTkQP8UiGOn9lxi5+tI/IzeGuGvt9LldZOHdqb4X6PjRQ1JA0XTGWze5GsFYtjkXYP+IXz5xz/Nme3y6qhbPs/Zf8Eyna6tTOHZ+4jGouIWXyqQtz8FgM1hu9AtToXq283zzxdfaJsJSjSsY/jJnOQaXq7S/NfjnfYUpSX8dhwUMVi7NGk8kHs/Gqb5taiVErn5Fajc6z38W/YjPf53KC1A5+dbQYcGWwHcrL6xzbxcpATbzDxRCxg4jUmnrUK7eQzMVoguFKRydbrNM0lRhIXoFk5brwjslKZpaILiJA9mfSJJKe0kx/zh/HSJTgZIu4PV6zy/Xi9a+Vfp8n9n22kW4+ykrxzrPr16B7t69H5NzcEYbKwfPjixwIvlYPX5vYnFyW8N+gQAAA=</values>
+    </sys_hub_action_instance_v2>
+    <sys_hub_action_instance_v2 action="INSERT_OR_UPDATE">
+        <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
+        <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
+        <attributes/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="TechLounge Desk">ef2d44ee834e1e10acfcb5d6feaad34a</flow>
+        <generation_source/>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance_v2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-26 06:10:55</sys_created_on>
+        <sys_id>3b1e4c22838e1e10acfcb5d6feaad333</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-26 06:16:05</sys_updated_on>
+        <ui_id>8f318497-153c-4515-8946-c4c3ff88e38e</ui_id>
+        <values>H4sIAAAAAAAA/+1Uy27bMBD8FUNnQZAsy018C2oY6KEJkBa5pAFBkWubAEUqfDh2Df97l3o4jtMmhpEeCpQ37mN2Zjng/TYSPJpEI+BpdpmNWZ7l+TBNhxejrBznZTbkOQXIojhStAKsNMC04XhfUelDYLv9bIA64CRLmDcGlNvtMM+FrSXd3HVlGGFLITnmo8n9QxzV1CCiAxNNtkcpt6mBSFqCxMapZr5C0MGXKWKcyrbvvu3pHtMPM/DOO3QiQhBTgU+WxhGsHSgOOG5OpYU4qqji1GmziSbOeAygan6j5GZfsRTKtUorurbiJ+KP0lA3B5TG9lvQgsFN7YRWbcTRUvZJLX2lrluuYYkwp166gyV6C4RDHbiFaS2V+belfrrt58yEamR0tKRmVO5v1DkjSu/Ahr2DhEZ9RetaqAWpjV6JphmpVMlC4iWZS/2EM61YqISywDvBTdBkhvFpE76jRgQRXxEGm3eNaPLow9xWRkeYNJobwaR5ESy1zIjaXSHwCjqau7jzZVm89dLs8vlhDzCfvbkmWVGMxp8K4oAtidSeOGng0YN19rVH3ys/z8DfA7PBdcvsVFUvmv+gsrPwi1jn4OLDHHzxtx3cjf7HLPyecdPhm1/UwZM2XrUHprUOf9MfPk1zno1em/Q4faYpoUJQB4MWNj6ZdQ8wEyC5/Y2M3pXdALLqBuz/1g+zZjZOm/P/iz3ni334BTKDreP8BwAA</values>
+    </sys_hub_action_instance_v2>
+    <sys_hub_action_instance_v2 action="INSERT_OR_UPDATE">
+        <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
+        <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
+        <attributes/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="TechLounge Desk">ef2d44ee834e1e10acfcb5d6feaad34a</flow>
+        <generation_source/>
+        <order>4</order>
+        <parent_ui_id>2fae77be-9039-4878-8be9-341633bb6c2b</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance_v2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-26 06:31:33</sys_created_on>
+        <sys_id>42d210a6838e1e10acfcb5d6feaad380</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-26 06:31:33</sys_updated_on>
+        <ui_id>383cd1ef-7e00-41c9-ad30-67e73387f2a5</ui_id>
+        <values>H4sIAAAAAAAA/+1Uy27bMBD8FUNnQZAsy018K2oY6KEJkBa5pAFBkSubAPUIH45dQ//eJSU5jpMmhpEeClQncXc5O7Mc7N0uEDyYBRPgcXKZTFmapOk4jscXkySfpnky5ikFSIIwqGgJWKmA1YrjeU2ldYHd7osCaoCTJGJWKahM22KeC91Iur3tyzDCVkJyzAezu/swaKhCRAMqmO2OUmbbAJE0B4kX5zWzJYKOvs4R41S2w+2bge4xfdcDz7xHJ8IFMeX4JHEYwMZAxQHbFVRqCIOSVpyaWm2DmVEWA6iaX1dyu69Yicp0Sku60eIX4k9iV1cASmP7KdSCwXVjRF11EUNzOSRracvqquPqhggFtdIcDNFqIBwax81166gU31f1483QZyEqL6OnJWtG5f5EjVEitwa0mztI8OpL2jSiWpJG1WvhLyOVMlpKPESFrB+xpxbLKqLM8Y5wEjRaYHzuw7dUCSfiG8Lg5daLJg/W9e1k9ISJ1+wFE/8iWKqZEo35jMBr6Gm2Ye/LPHvrpdnl08MeYD55c0OSLJtMP2XEAFsRWVtipIIHC9rolx59r/w8A/9wzEZXHbNTVT27/AeVvYWfxXoHZx/m4Iu/7eC+9T9m4feMG4/fXFEHT+q9qg9Mqw1u0582jlOeZC9Nepw+05RQIqiBUQcbnsx6AFgIkFy/ImNwZd+ArPsG+936YdZMprH//q/YM1bsEHQUvaX8z6t1dA18GA9arm3b+9904Sa2OAgAAA==</values>
+    </sys_hub_action_instance_v2>
+    <sys_hub_action_instance_v2 action="INSERT_OR_UPDATE">
+        <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
+        <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
+        <attributes/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="TechLounge Desk">ef2d44ee834e1e10acfcb5d6feaad34a</flow>
+        <generation_source/>
+        <order>6</order>
+        <parent_ui_id>b92b45fa-892d-4e4b-a996-ddefd81e15ce</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance_v2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-26 06:31:33</sys_created_on>
+        <sys_id>c2d210a6838e1e10acfcb5d6feaad381</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-26 06:31:33</sys_updated_on>
+        <ui_id>f6120cd0-8cf9-4492-84ad-2bddb82e0465</ui_id>
+        <values>H4sIAAAAAAAA/+1Uy27bMBD8FUNnQZAsy018C2oY6KEJkBa5pAFBkWubAEUqfDh2Df97l3o4jtMmhpEeCpQ37mN2Zjng/TYSPJpEI+BpdpmNWZ7l+TBNhxejrBznZTbkOQXIojhStAKsNMC04XhfUelDYLv9bIA64CRLmDcGlNvtMM+FrSXd3HVlGGFLITnmo8n9QxzV1CCiAxNNtkcpt6mBSFqCxMapZr5C0MGXKWKcyrbvvu3pHtMPM/DOO3QiQhBTgU+WxhGsHSgOOG5OpYU4qqji1GmziSbOeAygan6j5GZfsRTKtUorurbiJ+KP0lA3B5TG9lvQgsFN7YRWbcTRUvZJLX2lrluuYYkwp166gyV6C4RDHbiFaS2V+belfrrt58yEamR0tKRmVO5v1DkjSu/Ahr2DhEZ9RetaqAWpjV6JphmpVMlC4iWZS/2EM61YqISywDvBTdBkhvFpE76jRgQRXxEGm3eNaPLow9xWRkeYNJobwaR5ESy1zIjaXSHwCjqau7jzZVm89dLs8vlhDzCfvbkmWVGMxp8K4oAtidSeOGng0YN19rVH3ys/z8DfA7PBdcvsVFUvmv+gsrPwi1jn4OLDHHzxtx3cjf7HLPyecdPhm1/UwZM2XrUHprUOf9MfPk1znr/26FH2TEtChZgOBi1qfDLnHmAmQHL7GxG9J7sBZNUN2P+sH2bMbJw25/8He84H+/AL0IN4PfoHAAA=</values>
+    </sys_hub_action_instance_v2>
+    <sys_hub_sub_flow_instance_v2 action="delete_multiple" query="flow=ef2d44ee834e1e10acfcb5d6feaad34a"/>
+    <sys_hub_flow_logic_instance_v2 action="delete_multiple" query="flow=ef2d44ee834e1e10acfcb5d6feaad34a^sys_idNOT IN4ed210a6838e1e10acfcb5d6feaad380,82d210a6838e1e10acfcb5d6feaad37f"/>
+    <sys_hub_flow_logic_instance_v2 action="INSERT_OR_UPDATE">
+        <attributes/>
+        <block display_value="">0ad210a6838e1e10acfcb5d6feaad380</block>
+        <comment/>
+        <connected_to>2fae77be-9039-4878-8be9-341633bb6c2b</connected_to>
+        <decision_table/>
+        <display_text/>
+        <flow display_value="TechLounge Desk">ef2d44ee834e1e10acfcb5d6feaad34a</flow>
+        <flow_variables_assigned/>
+        <generation_source/>
+        <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
+        <order>5</order>
+        <outputs_assigned/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic_instance_v2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-26 06:31:33</sys_created_on>
+        <sys_id>4ed210a6838e1e10acfcb5d6feaad380</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-26 06:31:33</sys_updated_on>
+        <ui_id>b92b45fa-892d-4e4b-a996-ddefd81e15ce</ui_id>
+        <values>H4sIAAAAAAAA/6tWyi8tKSgtKQ7JdywuzkzPU7KKjtVRyswDiUHYZYlFmYlJOalQbkpqcmZxZn5eCEjME0ldSmVeYm5mMrJQeX5RdlpOfjlCrBYAD1ouqHEAAAA=</values>
+        <workflow_reference/>
+    </sys_hub_flow_logic_instance_v2>
+    <sys_hub_flow_logic_instance_v2 action="INSERT_OR_UPDATE">
+        <attributes/>
+        <block display_value="">0ad210a6838e1e10acfcb5d6feaad37e</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <display_text/>
+        <flow display_value="TechLounge Desk">ef2d44ee834e1e10acfcb5d6feaad34a</flow>
+        <flow_variables_assigned/>
+        <generation_source/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>3</order>
+        <outputs_assigned/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic_instance_v2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-26 06:31:33</sys_created_on>
+        <sys_id>82d210a6838e1e10acfcb5d6feaad37f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-26 06:31:33</sys_updated_on>
+        <ui_id>2fae77be-9039-4878-8be9-341633bb6c2b</ui_id>
+        <values>H4sIAAAAAAAA/+VVTW/bMAz9K4XOjuGP2GhzCzYUGLCtQFv0shUGLdGJMNlyJTlpFuS/j/JHW2wJFgy97RY/UuR75COyZ7pzbefsvV5aK1cNW3x7DJhsPEa/90wKtmBVBFV8xWOeJnmaRFFyOY/LPC3jRKSAkLKANVAjZXLdCOmkbooeCNgGVOcDt/jUoXUXy7Y1eoOCQkLaVsHu4XQGX0slDI6sWjBU06Fhi/1vIbdrsVBQoqJCd87IZkXPz+U+Pfwwkb/43COnVfl+hNupkzbC04qjgOGzw0YQ/UUFymLAamgEOG12L4hBEDeNegXWsnFUjvnkZyt/Uu0ky3xihaSR4xDkay053rSeyYA4KNUU1Kqrm68DYT9drKBTbpouIZ3FQmDr2fl2Y+/qbq23t1Oja9n0Ssag0hzUyxc40lt2Dq3fACqsqVBRQ9vSFAq/Ndk/Ji51uFL0EVZKb6mpt1YI3BMPaRgQXhP+sYcfwEiv4guVoccDzRKs5EVvQyrnDEk49OMonjpPaBA4SimGaVCC5Ua2bkl9NjiyPgSjh68gq7I4yo77YJ4f2fYb++73eJlHGSLMqhjS2byCcgZXHGdJnOalKOeQiyyE3rugCuvA4eHwvYuiVMBJz79X2fc4lDMG9MehHB/aietI/nIdfs1nHkcURf/pdUhbDC4ftfXN//k4Hr3Dhw52MIhALi0RuffYp+l/wAd2tGnJ30JbbX54Ca/Y4RfAlnnIUQYAAA==</values>
+        <workflow_reference/>
+    </sys_hub_flow_logic_instance_v2>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=ef2d44ee834e1e10acfcb5d6feaad34a"/>
+    <sys_hub_flow_variable action="delete_multiple" query="model=ef2d44ee834e1e10acfcb5d6feaad34a"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_ef2d44ee834e1e10acfcb5d6feaad34a^sys_idNOT IN631e4c22838e1e10acfcb5d6feaad30a,6f1e4c22838e1e10acfcb5d6feaad306"/>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>table_name</element>
+        <help/>
+        <hint/>
+        <label>Table Name</label>
+        <language>en</language>
+        <name>var__m_sys_hub_flow_input_ef2d44ee834e1e10acfcb5d6feaad34a</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-26 06:10:55</sys_created_on>
+        <sys_id>631e4c22838e1e10acfcb5d6feaad30a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-26 06:10:55</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>current</element>
+        <help/>
+        <hint/>
+        <label>Record</label>
+        <language>en</language>
+        <name>var__m_sys_hub_flow_input_ef2d44ee834e1e10acfcb5d6feaad34a</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-26 06:10:54</sys_created_on>
+        <sys_id>6f1e4c22838e1e10acfcb5d6feaad306</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-26 06:10:54</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_ef2d44ee834e1e10acfcb5d6feaad34a"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_ef2d44ee834e1e10acfcb5d6feaad34a"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_ef2d44ee834e1e10acfcb5d6feaad34a"/>
+    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=ef2d44ee834e1e10acfcb5d6feaad34a"/>
+    <sys_flow_subflow_plan action="delete_multiple" query="plan_id=ef2d44ee834e1e10acfcb5d6feaad34a"/>
+</record_update>
