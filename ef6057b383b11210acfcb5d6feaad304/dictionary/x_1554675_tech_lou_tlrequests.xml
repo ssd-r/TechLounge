@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="9ece088483c61210acfcb5d6feaad316" extends="task" label="TLRequests" max_length="40" name="x_1554675_tech_lou_tlrequests" type="collection">
         <element display="true" label="Asset Item" max_length="32" name="asset_item" reference="x_1554675_tech_lou_tlassets" reference_qual="asset_nameISNOTEMPTY^status=available^EQ" reference_qual_condition="asset_nameISNOTEMPTY^status=available^EQ" type="reference"/>
+        <element label="Requested for" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
         <element choice="3" label="Status" max_length="40" name="status" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Approved" value="approved"/>
