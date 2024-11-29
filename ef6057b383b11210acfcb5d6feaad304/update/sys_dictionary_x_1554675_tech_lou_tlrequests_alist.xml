@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="asset_item" table="x_1554675_tech_lou_tlrequests">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="alist" table="x_1554675_tech_lou_tlrequests">
         <active>true</active>
         <array>false</array>
         <attributes/>
@@ -13,7 +13,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Asset Item</column_label>
+        <column_label>AList</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -21,45 +21,42 @@
         <delete_roles/>
         <dependent/>
         <dependent_on_field/>
-        <display>false</display>
+        <display>true</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>asset_item</element>
+        <element>alist</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Reference">reference</internal_type>
+        <internal_type display_value="">glide_list</internal_type>
         <mandatory>false</mandatory>
-        <max_length>32</max_length>
+        <max_length>4000</max_length>
         <name>x_1554675_tech_lou_tlrequests</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference display_value="" name="x_1554675_tech_lou_tlassets">x_1554675_tech_lou_tlassets</reference>
+        <reference display_value="" name="x_1554675_tech_lou_tlrequests">x_1554675_tech_lou_tlrequests</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
-        <reference_qual>asset_nameISNOTEMPTY^status=available^EQ</reference_qual>
-        <reference_qual_condition table="x_1554675_tech_lou_tlassets">asset_nameISNOTEMPTY^status=available^EQ<item endquery="false" field="asset_name" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
-            <item display_value="Available" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="available"/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
-        </reference_qual_condition>
+        <reference_qual/>
+        <reference_qual_condition/>
         <reference_type/>
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-11-20 06:09:06</sys_created_on>
-        <sys_name>Asset Item</sys_name>
+        <sys_created_on>2024-11-29 05:40:26</sys_created_on>
+        <sys_name>AList</sys_name>
         <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
         <sys_policy/>
         <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
-        <sys_update_name>sys_dictionary_x_1554675_tech_lou_tlrequests_asset_item</sys_update_name>
+        <sys_update_name>sys_dictionary_x_1554675_tech_lou_tlrequests_alist</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-11-29 05:40:26</sys_updated_on>
         <table_reference>false</table_reference>
