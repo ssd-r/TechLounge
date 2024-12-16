@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="DELETE">
+        <legacy_page display_value="New Tab 2">738743f483621210acfcb5d6feaad30e</legacy_page>
+        <name>New Tab 2</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 05:43:08</sys_created_on>
+        <sys_id>7b8743f483621210acfcb5d6feaad30f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 2</sys_name>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_update_name>sys_grid_canvas_7b8743f483621210acfcb5d6feaad30f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 05:43:08</sys_updated_on>
+    </sys_grid_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</application>
+        <file_path/>
+        <instance_id>650a00c11b1af1d8168f4089bd4bcb6b</instance_id>
+        <instance_name>dev200968</instance_name>
+        <name>sys_grid_canvas_7b8743f483621210acfcb5d6feaad30f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas"><sys_grid_canvas action="INSERT_OR_UPDATE"><legacy_page display_value="New Tab 2">738743f483621210acfcb5d6feaad30e</legacy_page><name>New Tab 2</name><sys_class_name>sys_grid_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-16 05:43:08</sys_created_on><sys_id>7b8743f483621210acfcb5d6feaad30f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Tab 2</sys_name><sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package><sys_policy/><sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope><sys_update_name>sys_grid_canvas_7b8743f483621210acfcb5d6feaad30f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-16 05:43:08</sys_updated_on></sys_grid_canvas></record_update>]]></payload>
+        <payload_hash>1272711619</payload_hash>
+        <record_name>New Tab 2</record_name>
+        <reverted_from/>
+        <source>a210bf9483da9650acfcb5d6feaad3fc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 05:43:08</sys_created_on>
+        <sys_id>f78743f483621210acfcb5d6feaad312</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193cdfde4e80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 05:43:08</sys_updated_on>
+        <type>Grid Canvas</type>
+        <update_guid>bb8743f49c621210869b661408086411</update_guid>
+        <update_guid_history>bb8743f49c621210869b661408086411:1272711619</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 05:43:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas">sys_grid_canvas</sys_db_object>
+        <sys_id>3fa824eb62d149f293016bb91dabba44</sys_id>
+        <sys_metadata>7b8743f483621210acfcb5d6feaad30f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 2</sys_name>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_scope_delete display_value="">0c314d537e6a425a82289c4064f043d9</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_7b8743f483621210acfcb5d6feaad30f</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_7b8743f483621210acfcb5d6feaad30f">f78743f483621210acfcb5d6feaad312</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 05:43:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

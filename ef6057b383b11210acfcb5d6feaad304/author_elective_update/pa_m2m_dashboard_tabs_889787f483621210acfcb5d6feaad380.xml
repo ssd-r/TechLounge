@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="TLDashboard">c74847af83de1610acfcb5d6feaad35a</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>2</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 05:43:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>889787f483621210acfcb5d6feaad380</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c74847af83de1610acfcb5d6feaad35a</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_889787f483621210acfcb5d6feaad380</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 05:43:09</sys_updated_on>
+        <tab display_value="New Tab 2">ff8743f483621210acfcb5d6feaad312</tab>
+    </pa_m2m_dashboard_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</application>
+        <file_path/>
+        <instance_id>650a00c11b1af1d8168f4089bd4bcb6b</instance_id>
+        <instance_name>dev200968</instance_name>
+        <name>pa_m2m_dashboard_tabs_889787f483621210acfcb5d6feaad380</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="TLDashboard">c74847af83de1610acfcb5d6feaad35a</dashboard><home>false</home><homepage/><order>2</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-16 05:43:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>889787f483621210acfcb5d6feaad380</sys_id><sys_mod_count>0</sys_mod_count><sys_name>c74847af83de1610acfcb5d6feaad35a</sys_name><sys_overrides/><sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package><sys_policy/><sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_889787f483621210acfcb5d6feaad380</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-16 05:43:09</sys_updated_on><tab display_value="New Tab 2">ff8743f483621210acfcb5d6feaad312</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+        <payload_hash>1731322444</payload_hash>
+        <record_name>c74847af83de1610acfcb5d6feaad35a</record_name>
+        <reverted_from/>
+        <source>a210bf9483da9650acfcb5d6feaad3fc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 05:43:09</sys_created_on>
+        <sys_id>c89787f483621210acfcb5d6feaad383</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193cdfde67c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 05:43:09</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>cc9787f4dc62121082d4aa02f8e3b782</update_guid>
+        <update_guid_history>cc9787f4dc62121082d4aa02f8e3b782:1731322444</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="TLDashboard">bba707f483621210acfcb5d6feaad305</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 05:43:42</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>0f04da9e77714400a99f61092d9f9000</sys_id>
+        <sys_metadata>889787f483621210acfcb5d6feaad380</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c74847af83de1610acfcb5d6feaad35a</sys_name>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_parent display_value="TLDashboard">c74847af83de1610acfcb5d6feaad35a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_scope_delete display_value="">0c314d537e6a425a82289c4064f043d9</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_889787f483621210acfcb5d6feaad380</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_889787f483621210acfcb5d6feaad380">c89787f483621210acfcb5d6feaad383</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 05:43:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="TLDashboard">2f5887af83de1610acfcb5d6feaad3bb</legacy_page>
+        <name>New Tab 1</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-12 08:34:16</sys_created_on>
+        <sys_id>2f5887af83de1610acfcb5d6feaad3bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 1</sys_name>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_update_name>sys_grid_canvas_2f5887af83de1610acfcb5d6feaad3bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-12 08:34:16</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>
