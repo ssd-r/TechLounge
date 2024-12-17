@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Create Assets Items">b31866d183e69210acfcb5d6feaad3d0</sc_cat_item>
+        <sc_category display_value="Quick Links">91a9e0510a0a3c7401d20d86782fc9a0</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-17 17:46:16</sys_created_on>
+        <sys_id>d2a6fe55832a9210acfcb5d6feaad31e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Quick Links.Create Assets Items</sys_name>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_update_name>sc_cat_item_category_d2a6fe55832a9210acfcb5d6feaad31e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-17 17:46:16</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</application>
+        <file_path/>
+        <instance_id>650a00c11b1af1d8168f4089bd4bcb6b</instance_id>
+        <instance_name>dev200968</instance_name>
+        <name>sc_cat_item_category_d2a6fe55832a9210acfcb5d6feaad31e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Create Assets Items">b31866d183e69210acfcb5d6feaad3d0</sc_cat_item><sc_category display_value="Quick Links">91a9e0510a0a3c7401d20d86782fc9a0</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-17 17:46:16</sys_created_on><sys_id>d2a6fe55832a9210acfcb5d6feaad31e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Quick Links.Create Assets Items</sys_name><sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package><sys_policy/><sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope><sys_update_name>sc_cat_item_category_d2a6fe55832a9210acfcb5d6feaad31e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-17 17:46:16</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1489777113</payload_hash>
+        <record_name>Quick Links.Create Assets Items</record_name>
+        <reverted_from/>
+        <source>15095c4d83e61210acfcb5d6feaad3e3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-17 17:46:16</sys_created_on>
+        <sys_id>56a6fe55832a9210acfcb5d6feaad32f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193d5ba4ad40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-17 17:46:16</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>96a6fe55de2a921020297240b945dc2e</update_guid>
+        <update_guid_history>96a6fe55de2a921020297240b945dc2e:1489777113</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Quick Links.Create Assets Items">e3273e95832a9210acfcb5d6feaad368</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-17 17:48:32</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>17ca7b51bba14c0080f2cdf93b7fe400</sys_id>
+        <sys_metadata>d2a6fe55832a9210acfcb5d6feaad31e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Quick Links.Create Assets Items</sys_name>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_scope_delete display_value="">0c314d537e6a425a82289c4064f043d9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_d2a6fe55832a9210acfcb5d6feaad31e</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_d2a6fe55832a9210acfcb5d6feaad31e">56a6fe55832a9210acfcb5d6feaad32f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-17 17:48:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

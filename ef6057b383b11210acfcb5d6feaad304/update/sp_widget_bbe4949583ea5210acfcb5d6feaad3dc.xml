@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[api.controller=function() {  /* widget controller */  var c = this;};]]></client_script>
+        <controller_as>c</controller_as>
+        <css/>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>true</has_preview>
+        <id>tech_lounge_sp</id>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {  }]]></link>
+        <name>Tech Lounge SP</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {
+  /* populate the 'data' object */
+  /* e.g., data.table = $sp.getValue('table'); */
+	
+	data.tlRequests = [];
+	var tlRequestsGR = new GlideRecord('x_1554675_tech_lou_tlrequests');
+	tlRequestsGR.addQuery('state', '13');
+	tlRequestsGR.query();
+
+	while(tlRequestsGR.next()){
+		var tlRequestsObj = {};
+		$sp.getRecordDisplayValues(tlRequestsObj, tlRequestsGR, 'number, state, short_description');
+
+		data.tlRequests.push(tlRequestsObj);
+	}
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-17 05:59:41</sys_created_on>
+        <sys_id>bbe4949583ea5210acfcb5d6feaad3dc</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Tech Lounge SP</sys_name>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_update_name>sp_widget_bbe4949583ea5210acfcb5d6feaad3dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-17 09:34:28</sys_updated_on>
+        <template><![CDATA[<div class="panel panel-default">
+<div class="panel-heading clearfix">
+<h3 class="panel-title pull-left">
+${Tech Lounge}
+</h3>
+</div>
+<div class="list-group">
+<a class="list-group-item" ng-repeat="note in data.notes">
+<h4 class="list-group-item-heading">
+{{tlRequests.number}}
+</h4>
+<p class="list-group-item-text">
+{{tlRequests.state}}
+</p>
+  <p class="list-group-item-text">
+{{tlRequests.short_description}}
+</p>
+</a>
+</div>
+</div>]]></template>
+    </sp_widget>
+</record_update>

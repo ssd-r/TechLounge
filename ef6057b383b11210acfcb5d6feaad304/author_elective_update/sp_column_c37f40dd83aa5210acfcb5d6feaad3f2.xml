@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <semantic_tag/>
+        <size>12</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">c37f40dd83aa5210acfcb5d6feaad3ef</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-17 05:35:52</sys_created_on>
+        <sys_id>c37f40dd83aa5210acfcb5d6feaad3f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_update_name>sp_column_c37f40dd83aa5210acfcb5d6feaad3f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-17 05:35:52</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</application>
+        <file_path/>
+        <instance_id>650a00c11b1af1d8168f4089bd4bcb6b</instance_id>
+        <instance_name>dev200968</instance_name>
+        <name>sp_column_c37f40dd83aa5210acfcb5d6feaad3f2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><semantic_tag/><size>12</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">c37f40dd83aa5210acfcb5d6feaad3ef</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-17 05:35:52</sys_created_on><sys_id>c37f40dd83aa5210acfcb5d6feaad3f2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package><sys_policy/><sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope><sys_update_name>sp_column_c37f40dd83aa5210acfcb5d6feaad3f2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-17 05:35:52</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>-41722698</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>15095c4d83e61210acfcb5d6feaad3e3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-17 05:35:52</sys_created_on>
+        <sys_id>877f441183ea5210acfcb5d6feaad33e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193d31d971f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-17 05:35:52</sys_updated_on>
+        <type>Column</type>
+        <update_guid>cf7f40dd7caa52109eb0a5f3d1c2c6f3</update_guid>
+        <update_guid_history>cf7f40dd7caa52109eb0a5f3d1c2c6f3:-41722698</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">6f061cd583ea5210acfcb5d6feaad317</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-17 06:04:35</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>330c70af6ac24a1880216543a2863240</sys_id>
+        <sys_metadata>c37f40dd83aa5210acfcb5d6feaad3f2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_scope_delete display_value="">0c314d537e6a425a82289c4064f043d9</sys_scope_delete>
+        <sys_update_name>sp_column_c37f40dd83aa5210acfcb5d6feaad3f2</sys_update_name>
+        <sys_update_version display_value="sp_column_c37f40dd83aa5210acfcb5d6feaad3f2">877f441183ea5210acfcb5d6feaad33e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-17 06:04:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

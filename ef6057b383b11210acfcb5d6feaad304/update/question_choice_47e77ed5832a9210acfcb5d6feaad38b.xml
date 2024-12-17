@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Status">fb7736d5832a9210acfcb5d6feaad36f</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-17 17:51:47</sys_created_on>
+        <sys_id>47e77ed5832a9210acfcb5d6feaad38b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Not Available</sys_name>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_update_name>question_choice_47e77ed5832a9210acfcb5d6feaad38b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-17 17:51:47</sys_updated_on>
+        <text>Not Available</text>
+        <value>not_available</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=47e77ed5832a9210acfcb5d6feaad38b"/>
+</record_update>
