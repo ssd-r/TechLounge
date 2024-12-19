@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>500</order>
+        <published_ref/>
+        <question display_value="Priority">a009eeb183ee1610acfcb5d6feaad359</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-19 06:08:26</sys_created_on>
+        <sys_id>f31a663583ee1610acfcb5d6feaad3d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5 - Planning</sys_name>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_update_name>question_choice_f31a663583ee1610acfcb5d6feaad3d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-19 06:08:26</sys_updated_on>
+        <text>5 - Planning</text>
+        <value>5_planning</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=f31a663583ee1610acfcb5d6feaad3d2"/>
+</record_update>

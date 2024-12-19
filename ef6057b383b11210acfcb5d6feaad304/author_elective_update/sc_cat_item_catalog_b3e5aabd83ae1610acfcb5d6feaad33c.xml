@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Make Asset Request">cfeba2e983ead210acfcb5d6feaad304</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-19 05:50:08</sys_created_on>
+        <sys_id>b3e5aabd83ae1610acfcb5d6feaad33c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Make Asset Request</sys_name>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_b3e5aabd83ae1610acfcb5d6feaad33c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-19 05:50:08</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</application>
+        <file_path/>
+        <instance_id>650a00c11b1af1d8168f4089bd4bcb6b</instance_id>
+        <instance_name>dev200968</instance_name>
+        <name>sc_cat_item_catalog_b3e5aabd83ae1610acfcb5d6feaad33c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Make Asset Request">cfeba2e983ead210acfcb5d6feaad304</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-19 05:50:08</sys_created_on><sys_id>b3e5aabd83ae1610acfcb5d6feaad33c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Make Asset Request</sys_name><sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package><sys_policy/><sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope><sys_update_name>sc_cat_item_catalog_b3e5aabd83ae1610acfcb5d6feaad33c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-19 05:50:08</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-627382820</payload_hash>
+        <record_name>Service Catalog.Make Asset Request</record_name>
+        <reverted_from/>
+        <source>15095c4d83e61210acfcb5d6feaad3e3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-19 05:50:08</sys_created_on>
+        <sys_id>3fe5aabd83ae1610acfcb5d6feaad34c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193dd77623e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-19 05:50:08</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>7fe5aabdcdae1610f1f9c39a4ad5644b</update_guid>
+        <update_guid_history>7fe5aabdcdae1610f1f9c39a4ad5644b:-627382820</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Make Asset Request">01a6aafd83ae1610acfcb5d6feaad30b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-19 05:53:14</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>19727028544e4e3e9aeea0a4bb739f89</sys_id>
+        <sys_metadata>b3e5aabd83ae1610acfcb5d6feaad33c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Make Asset Request</sys_name>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_parent display_value="Make Asset Request">cfeba2e983ead210acfcb5d6feaad304</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_scope_delete display_value="">0c314d537e6a425a82289c4064f043d9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_b3e5aabd83ae1610acfcb5d6feaad33c</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_b3e5aabd83ae1610acfcb5d6feaad33c">3fe5aabd83ae1610acfcb5d6feaad34c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-19 05:53:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
