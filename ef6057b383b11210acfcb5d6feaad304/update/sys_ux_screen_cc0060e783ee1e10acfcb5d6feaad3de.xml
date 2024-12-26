@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Tech Lounge App Config">06ff5ca76dee1e10bfdc30f80d86e277</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings/>
+        <macroponent display_value="TLAssets Record Page">080060e783ee1e10acfcb5d6feaad3d9</macroponent>
+        <macroponent_config/>
+        <name>TLAssets Record Page</name>
+        <order>100</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition>table=x_1554675_tech_lou_tlassets</screen_condition>
+        <screen_type display_value="Record">0eff5ca770ee1e1060797d740d0a6e6b</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-24 06:34:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cc0060e783ee1e10acfcb5d6feaad3de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TLAssets Record Page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_update_name>sys_ux_screen_cc0060e783ee1e10acfcb5d6feaad3de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-24 06:34:21</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=cc0060e783ee1e10acfcb5d6feaad3de"/>
+</record_update>

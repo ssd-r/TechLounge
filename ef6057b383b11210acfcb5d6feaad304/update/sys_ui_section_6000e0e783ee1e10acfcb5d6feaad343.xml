@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="6000e0e783ee1e10acfcb5d6feaad343" sys_domain="global" table="x_1554675_tech_lou_tlassets" version="3" view="workspace-tech-lounge-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_id</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 06:34:23</sys_created_on>
+            <sys_id>2800e0e783ee1e10acfcb5d6feaad346</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_tlassets" sys_domain="global" view="caff5ca7d5ee1e10b71872dfb254276c">6000e0e783ee1e10acfcb5d6feaad343</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 06:34:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_type</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 06:34:23</sys_created_on>
+            <sys_id>2800e0e783ee1e10acfcb5d6feaad344</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_tlassets" sys_domain="global" view="caff5ca7d5ee1e10b71872dfb254276c">6000e0e783ee1e10acfcb5d6feaad343</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 06:34:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 06:34:23</sys_created_on>
+            <sys_id>2000e0e783ee1e10acfcb5d6feaad347</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_tlassets" sys_domain="global" view="caff5ca7d5ee1e10b71872dfb254276c">6000e0e783ee1e10acfcb5d6feaad343</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 06:34:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 06:34:23</sys_created_on>
+            <sys_id>2000e0e783ee1e10acfcb5d6feaad345</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_tlassets" sys_domain="global" view="caff5ca7d5ee1e10b71872dfb254276c">6000e0e783ee1e10acfcb5d6feaad343</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 06:34:23</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantity</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 06:34:23</sys_created_on>
+            <sys_id>2800e0e783ee1e10acfcb5d6feaad347</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_tlassets" sys_domain="global" view="caff5ca7d5ee1e10b71872dfb254276c">6000e0e783ee1e10acfcb5d6feaad343</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 06:34:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 06:34:23</sys_created_on>
+            <sys_id>2800e0e783ee1e10acfcb5d6feaad345</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_tlassets" sys_domain="global" view="caff5ca7d5ee1e10b71872dfb254276c">6000e0e783ee1e10acfcb5d6feaad343</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 06:34:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 06:34:23</sys_created_on>
+            <sys_id>2000e0e783ee1e10acfcb5d6feaad348</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_tlassets" sys_domain="global" view="caff5ca7d5ee1e10b71872dfb254276c">6000e0e783ee1e10acfcb5d6feaad343</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 06:34:23</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_description</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 06:34:23</sys_created_on>
+            <sys_id>2000e0e783ee1e10acfcb5d6feaad346</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_tlassets" sys_domain="global" view="caff5ca7d5ee1e10b71872dfb254276c">6000e0e783ee1e10acfcb5d6feaad343</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 06:34:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1554675_tech_lou_tlassets</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 06:34:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6000e0e783ee1e10acfcb5d6feaad343</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1554675_tech_lou_tlassets</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+            <sys_update_name>sys_ui_section_6000e0e783ee1e10acfcb5d6feaad343</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 06:34:23</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Tech Lounge 0" name="workspace-tech-lounge-0">caff5ca7d5ee1e10b71872dfb254276c</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

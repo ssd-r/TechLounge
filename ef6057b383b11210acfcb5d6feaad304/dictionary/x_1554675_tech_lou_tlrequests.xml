@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" db_object_id="9ece088483c61210acfcb5d6feaad316" extends="task" label="TLRequests" max_length="40" name="x_1554675_tech_lou_tlrequests" type="collection">
+    <element audit="true" db_object_id="9ece088483c61210acfcb5d6feaad316" extends="task" label="TLRequests" max_length="40" name="x_1554675_tech_lou_tlrequests" text_index="true" type="collection">
         <element display="true" label="AList" max_length="4000" name="alist" reference="x_1554675_tech_lou_tlrequests" type="glide_list"/>
         <element label="Assets" max_length="32" name="assets" reference="x_1554675_tech_lou_tlassets" type="reference"/>
         <element label="Asset Item" max_length="4000" name="asset_item" reference="x_1554675_tech_lou_tlassets" reference_qual="asset_nameISNOTEMPTY^status=available^EQ" reference_qual_condition="asset_nameISNOTEMPTY^status=available^EQ" type="glide_list"/>

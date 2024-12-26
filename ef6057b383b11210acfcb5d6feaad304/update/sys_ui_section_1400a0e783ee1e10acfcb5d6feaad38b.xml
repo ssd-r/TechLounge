@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="1400a0e783ee1e10acfcb5d6feaad38b" sys_domain="global" table="x_1554675_tech_lou_tlrequests" version="3" view="workspace-tech-lounge-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 06:34:23</sys_created_on>
+            <sys_id>a400e0e783ee1e10acfcb5d6feaad302</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_tlrequests" sys_domain="global" view="caff5ca7d5ee1e10b71872dfb254276c">1400a0e783ee1e10acfcb5d6feaad38b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 06:34:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_item</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 06:34:23</sys_created_on>
+            <sys_id>e400a0e783ee1e10acfcb5d6feaad390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_tlrequests" sys_domain="global" view="caff5ca7d5ee1e10b71872dfb254276c">1400a0e783ee1e10acfcb5d6feaad38b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 06:34:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 06:34:23</sys_created_on>
+            <sys_id>ac00e0e783ee1e10acfcb5d6feaad303</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_tlrequests" sys_domain="global" view="caff5ca7d5ee1e10b71872dfb254276c">1400a0e783ee1e10acfcb5d6feaad38b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 06:34:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 06:34:23</sys_created_on>
+            <sys_id>6000a0e783ee1e10acfcb5d6feaad38f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_tlrequests" sys_domain="global" view="caff5ca7d5ee1e10b71872dfb254276c">1400a0e783ee1e10acfcb5d6feaad38b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 06:34:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 06:34:23</sys_created_on>
+            <sys_id>a400e0e783ee1e10acfcb5d6feaad303</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_tlrequests" sys_domain="global" view="caff5ca7d5ee1e10b71872dfb254276c">1400a0e783ee1e10acfcb5d6feaad38b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 06:34:23</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 06:34:23</sys_created_on>
+            <sys_id>ec00a0e783ee1e10acfcb5d6feaad391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_tlrequests" sys_domain="global" view="caff5ca7d5ee1e10b71872dfb254276c">1400a0e783ee1e10acfcb5d6feaad38b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 06:34:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 06:34:23</sys_created_on>
+            <sys_id>ac00e0e783ee1e10acfcb5d6feaad302</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_tlrequests" sys_domain="global" view="caff5ca7d5ee1e10b71872dfb254276c">1400a0e783ee1e10acfcb5d6feaad38b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 06:34:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 06:34:23</sys_created_on>
+            <sys_id>e400a0e783ee1e10acfcb5d6feaad391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_tlrequests" sys_domain="global" view="caff5ca7d5ee1e10b71872dfb254276c">1400a0e783ee1e10acfcb5d6feaad38b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 06:34:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 06:34:23</sys_created_on>
+            <sys_id>ac00e0e783ee1e10acfcb5d6feaad304</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_tlrequests" sys_domain="global" view="caff5ca7d5ee1e10b71872dfb254276c">1400a0e783ee1e10acfcb5d6feaad38b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 06:34:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 06:34:23</sys_created_on>
+            <sys_id>ec00a0e783ee1e10acfcb5d6feaad390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_tlrequests" sys_domain="global" view="caff5ca7d5ee1e10b71872dfb254276c">1400a0e783ee1e10acfcb5d6feaad38b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 06:34:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 06:34:23</sys_created_on>
+            <sys_id>a400e0e783ee1e10acfcb5d6feaad304</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_tlrequests" sys_domain="global" view="caff5ca7d5ee1e10b71872dfb254276c">1400a0e783ee1e10acfcb5d6feaad38b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 06:34:23</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 06:34:23</sys_created_on>
+            <sys_id>ec00a0e783ee1e10acfcb5d6feaad38f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554675_tech_lou_tlrequests" sys_domain="global" view="caff5ca7d5ee1e10b71872dfb254276c">1400a0e783ee1e10acfcb5d6feaad38b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 06:34:23</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1554675_tech_lou_tlrequests</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 06:34:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1400a0e783ee1e10acfcb5d6feaad38b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1554675_tech_lou_tlrequests</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+            <sys_update_name>sys_ui_section_1400a0e783ee1e10acfcb5d6feaad38b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 06:34:22</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Tech Lounge 0" name="workspace-tech-lounge-0">caff5ca7d5ee1e10b71872dfb254276c</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="TLAssets">33ff50e783ee1e10acfcb5d6feaad388</ais_search_source>
+        <label>TLAssets</label>
+        <name>TLAssets</name>
+        <order>200</order>
+        <search_context_config display_value="Tech Lounge AI Search Configuration">8aff5ca76dee1e10b62ce6cc2f0ee06d</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-24 06:34:20</sys_created_on>
+        <sys_id>7fff50e783ee1e10acfcb5d6feaad3b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TLAssets</sys_name>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_update_name>sys_search_filter_7fff50e783ee1e10acfcb5d6feaad3b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-24 06:34:20</sys_updated_on>
+    </sys_search_filter>
+</record_update>

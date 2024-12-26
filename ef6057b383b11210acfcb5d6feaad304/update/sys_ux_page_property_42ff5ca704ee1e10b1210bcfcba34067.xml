@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>sys_ux_applicability sys_id for Workspace audience</description>
+        <name>wbApplicabilityConfigId</name>
+        <page display_value="Tech Lounge">4eff5ca794ee1e10ef3488d9b3e20b76</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-24 06:34:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>42ff5ca704ee1e10b1210bcfcba34067</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="Tech Lounge" source="x_1554675_tech_lou">ef6057b383b11210acfcb5d6feaad304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Lounge">ef6057b383b11210acfcb5d6feaad304</sys_scope>
+        <sys_update_name>sys_ux_page_property_42ff5ca704ee1e10b1210bcfcba34067</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-24 06:34:16</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1554675_tech_lou.4eff5ca794ee1e10ef3488d9b3e20b76.root.global.wbApplicabilityConfigId</unique_name>
+        <value>7eff9ca783ee1e10acfcb5d6feaad378</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=42ff5ca704ee1e10b1210bcfcba34067"/>
+</record_update>

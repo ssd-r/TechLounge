@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="54585c1c83ca5210acfcb5d6feaad397" extends="task" label="TLAssets" max_length="40" name="x_1554675_tech_lou_tlassets" type="collection">
+    <element db_object_id="54585c1c83ca5210acfcb5d6feaad397" extends="task" label="TLAssets" max_length="40" name="x_1554675_tech_lou_tlassets" text_index="true" type="collection">
         <element label="Asset Description" max_length="150" name="asset_description" type="string"/>
         <element default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Asset ID" max_length="40" name="asset_id" type="string" use_dynamic_default="true"/>
         <element display="true" label="Asset Name" max_length="150" name="asset_name" type="string"/>
